@@ -1,0 +1,8 @@
+# Environment
+.venv/
+
+# Pyenv
+.python-version
+
+# Dependencies
+uv.lock
