@@ -6,3 +6,6 @@
 
 # Dependencies
 uv.lock
+
+# Python
+__pycache__
